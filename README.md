@@ -1,3 +1,3 @@
 Install Salt Minion packages
 
-`curl -fsS https://raw.githubusercontent.com/danieloliveira079/docker-install/master/install-offical | bash`
+`curl -fsS https://raw.githubusercontent.com/danieloliveira079/install-salt-minion/master/install | bash`
